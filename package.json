@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My first node express application",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hello World!"
+  },
+  "author": "Helio Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node-notifier": "^4.3.1"
+  }
+}
